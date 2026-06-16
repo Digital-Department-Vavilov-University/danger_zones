@@ -151,3 +151,11 @@ BGR-кадр
 | `corner` | 1 | L-угол из двух перпендикулярных полос |
 
 Ориентации: `lateral` (поперёк хода), `longitudinal` (вдоль хода), `diagonal`.
+
+## Пример работы на синтетических тестах:
+
+![image](output/detected/sample_002_w0_r1_p_detected.png)
+
+![image](output/detected/sample_001_w0_r2_t_detected.png)
+
+![image](output/detected/sample_006_w1_r2_p_detected.png)
